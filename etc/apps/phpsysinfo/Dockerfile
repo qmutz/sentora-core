@@ -1,7 +1,7 @@
 # phpSysInfo
 # VERSION       2
 
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190425
 
 MAINTAINER phpSysInfo
 
